@@ -3,49 +3,49 @@ C# Grundlagenkurs in Teilzeit vom 10.11.2020 bis 19.11.2020 - Trainer: Benedikt 
 
 ## M000 | VORSTELLUNG
 
-- [ ] Begrüßung
-- [ ] Visual Studio <!--[Link](https://visualstudio.microsoft.com/de/) -->
-- [ ] Visual Studio Einrichtung
-<!-- - [ ] [vs-shortcuts](VS-SHORTCUTS.md) -->
+- [x] Begrüßung
+- [x] Visual Studio [Link](https://visualstudio.microsoft.com/de/) 
+- [x] Visual Studio Einrichtung
+- [x] [vs-shortcuts](VS-SHORTCUTS.md) 
 
 
 ## M001 | .NET GRUNDLAGEN
-- [ ] C# <!--[Link](https://docs.microsoft.com/de-de/dotnet/csharp/) -->
-- [ ] .NET 4.8 <!--[Link](https://docs.microsoft.com/de-de/dotnet/api/?view=netframework-4.8) -->
-- [ ] Projekte und Projektmappen
-- [ ] HelloWorld.cs <!--[Link](Uebungen/Modul001_01_HelloWorld/Program.cs) --> 
-- [ ] DemoConsole.cs <!--[Link](Uebungen/Modul001_02_DemoConsole/Program.cs) -->  
-- [ ] Startprojekt festlegen
-- [ ] Sprachgrundlagen
-<!-- - [ ] C# Cheatsheet [Link](CSHARP-CHEATSHEET.md) -->
+- [x] C# [Link](https://docs.microsoft.com/de-de/dotnet/csharp/) 
+- [x] .NET 4.8 [Link](https://docs.microsoft.com/de-de/dotnet/api/?view=netframework-4.8) 
+- [x] Projekte und Projektmappen
+- [x] HelloWorld.cs [Link](Uebungen/Modul001_01_HelloWorld/Program.cs)  
+- [x] DemoConsole.cs [Link](Uebungen/Modul001_02_DemoConsole/Program.cs)   
+- [x] Startprojekt festlegen
+- [x] Sprachgrundlagen
+<!-- - [x] C# Cheatsheet [Link](CSHARP-CHEATSHEET.md) -->
 
 
 ## M002 | DATENTYPEN, KONVERTIERUNGEN und OPERATOREN
-- [ ] Datentypen <!--[Link](Uebungen/Modul002_01_Datentypen/Program.cs) -->
-- [ ] Parsing & Casting  <!--[Link](Uebungen/Modul002_02_ParsingCasting/Program.cs) -->
-- [ ] Operatoren <!--[Link](Uebungen/Modul002_03_Operatoren/Program.cs) -->
-- [ ] Fragen <!--[Link](Uebungen/Modul002_Fragen/Program.cs) -->
+- [x] Datentypen [Link](Uebungen/Modul002_01_Datentypen/Program.cs) 
+- [x] Parsing & Casting  [Link](Uebungen/Modul002_02_ParsingCasting/Program.cs) 
+- [x] Operatoren [Link](Uebungen/Modul002_03_Operatoren/Program.cs) 
+- [x] Fragen [Link](Uebungen/Modul002_Fragen/Program.cs) 
       
 
 ## M003 | KONTROLLSTRUKTUREN und BOOLESCHE LOGIK
-- [ ] logische Operatoren  <!--[Link](Uebungen/Modul003_01_BoolescheLogik/Program.cs) -->
-- [ ] if-Abfrage <!--[Link](Uebungen/Modul003_02_Kontrollstrukturen/Program.cs) -->
-- [ ] switch-Anweisung <!--[Link](Uebungen/Modul003_02_Kontrollstrukturen/Program.cs) -->
-- [ ] Fragen <!--[Link](Uebungen/Modul003_Fragen/Program.cs) -->
+- [x] logische Operatoren  [Link](Uebungen/Modul003_01_BoolescheLogik/Program.cs) 
+- [x] if-Abfrage [Link](Uebungen/Modul003_02_Kontrollstrukturen/Program.cs) 
+- [x] switch-Anweisung [Link](Uebungen/Modul003_02_Kontrollstrukturen/Program.cs) 
+- [x] Fragen [Link](Uebungen/Modul003_Fragen/Program.cs) 
 
 ## M004 | ARRAYS, SCHLEIFEN und ENUMS
-- [ ] Arrays <!--[Link](Uebungen/Modul004_01_Arrays/Program.cs) -->
-- [ ] Enums <!--[Link](Uebungen/Modul004_02_Enumeratoren/Program.cs) -->
-- [ ] for-Schleife <!--[Link](Uebungen/Modul004_03_Schleifen/Program.cs) -->
-- [ ] foreach-Schleife <!--[Link](Uebungen/Modul004_03_Schleifen/Program.cs) -->
-- [ ] while-Schleifen <!--[Link](Uebungen/Modul004_03_Schleifen/Program.cs) -->
-- [ ] do-while-Schleife <!--[Link](Uebungen/Modul004_03_Schleifen/Program.cs) -->
-- [ ] Fragen <!--[Link](Uebungen/Modul004_Fragen/Program.cs) -->
+- [x] Arrays [Link](Uebungen/Modul004_01_Arrays/Program.cs) 
+- [x] Enums [Link](Uebungen/Modul004_02_Enumeratoren/Program.cs) 
+- [x] for-Schleife [Link](Uebungen/Modul004_03_Schleifen/Program.cs) 
+- [x] foreach-Schleife [Link](Uebungen/Modul004_03_Schleifen/Program.cs) 
+- [x] while-Schleifen [Link](Uebungen/Modul004_03_Schleifen/Program.cs) 
+- [x] do-while-Schleife [Link](Uebungen/Modul004_03_Schleifen/Program.cs) 
+- [x] Fragen [Link](Uebungen/Modul004_Fragen/Program.cs) 
 
 ## M005 | STATISCHE MEMBER
-- [ ] Funktionen  <!--[Link](Uebungen/Modul005_01_statischeMember/Program.cs) -->
-- [ ] Eigenschaften  <!--[Link](Uebungen/Modul005_01_statischeMember/Program.cs) -->
-- [ ] Fragen <!--[Link](Uebungen/Modul005_Fragen/Program.cs) -->
+- [x] Funktionen  [Link](Uebungen/Modul005_01_statischeMember/Program.cs) 
+- [x] Eigenschaften  [Link](Uebungen/Modul005_01_statischeMember/Program.cs) 
+- [x] Fragen [Link](Uebungen/Modul005_Fragen/Program.cs) 
 
 ## M006 | OOP - NAMESPACES, KLASSEN, FELDER und KAPSELUNGEN
 - [ ] Namespaces <!--[Link](Uebungen/Modul006_01_NamespaceKlassen/Program.cs) -->
