@@ -54,7 +54,7 @@ public class Person
 
 **MEMBERS**
 
-Konvention f�r die Reihenfolge:
+Konvention für die Reihenfolge:
 
 ```csharp
 public class Person
@@ -101,8 +101,8 @@ public string FirstName { get; set; }
 
 ## CONSTRUCTORS
 
-Konstruktoren hei�en genauso wie die Klasse selbst! <br>
-Konstruktoren haben keinen R�ckgabetyp. <br>
+Konstruktoren heißen genauso wie die Klasse selbst! <br>
+Konstruktoren haben keinen Rückgabetyp. <br>
 Konventionen wie bei anderen Methoden.
 
 **SEMANTIC SYNTAX**
@@ -142,7 +142,7 @@ Ohne private/public sind die Methoden private
 ```csharp
 _modifier_ _returntype_ _Identifier_(_parameters_)
 {
-    // Ausdr�cke | Expressions
+    // Ausdrücke | Expressions
     // Anweisungen | Statements 
 }
 ```
@@ -152,7 +152,7 @@ _modifier_ _returntype_ _Identifier_(_parameters_)
 ```csharp
 static void Main(string text)
 {
-    // Ausdr�cke | Expressions
+    // Ausdrücke | Expressions
     // Anweisungen | Statements 
 }
 ```
@@ -263,7 +263,7 @@ else
 ```csharp
 if (DateTime.Now == "22.04.2020")
 {
-    Console.WriteLine("Tag f�r Sport");
+    Console.WriteLine("Tag für Sport");
 }
 ```
 
@@ -435,11 +435,11 @@ public class Transportmittel
 class Flugzeug : Transportmittel
 {   
     // props:
-    public int MaxFlugH�he { get; set; }
+    public int MaxFlugHoehe { get; set; }
     // ctor:
-    public Flugzeug(string name, int preis, int maxFH�he) : base(name, preis)
+    public Flugzeug(string name, int preis, int maxFHoehe) : base(name, preis)
     {
-        MaxFlugH�he = maxFH�he;            
+        MaxFlugHoehe = maxFHoehe;            
     }
 }
 ```
@@ -461,7 +461,7 @@ Konvention bei Schnittstellen - IPascalCase
 // interface deklarieren:
 public interface IKannRollen
 {
-    int AnzahlR�der { get; set; }
+    int AnzahlRaeder { get; set; }
     int Luftdruck { get; set; }
     int NachpumpenLuftDruck(int luft);
 }
@@ -470,7 +470,7 @@ public interface IKannRollen
 class Flugzeug : IKannRollen
 {       
     // ... props speziell von Flugzeug
-    public int AnzahlR�der { get; set; }
+    public int AnzahlRaeder { get; set; }
     public int Luftdruck { get; set; }
     // ... ctor weggelassen
     public int NachpumpenLuftDruck(int luft)
@@ -532,5 +532,5 @@ myFuncDelegate(3, 4);
 **EXAMPLE**
 
 ```csharp
-gefundeneStadt = st�dte.Find(s => s.StartsWith("P"));
+gefundeneStadt = staedte.Find(s => s.StartsWith("P"));
 ```
