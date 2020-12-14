@@ -99,7 +99,7 @@ C# Grundlagenkurs in Teilzeit vom 10.11.2020 bis 19.11.2020 - Trainer: Benedikt 
 - [x] Stack [Link](Uebungen/Modul012_01_Listen/Stack.cs)  
 - [x] Queue [Link](Uebungen/Modul012_01_Listen/Queue.cs)  
 - [x] Hashtable [Link](Uebungen/Modul012_01_Listen/Hashtable.cs)  
-- [ ] Tuple <!--[Link](Uebungen/Modul012_01_Listen/Tuple.cs) --> 
+- [x] Tuple [Link](Uebungen/Modul012_01_Listen/Tuple.cs)
 - [x] Fragen [Link](Uebungen/Modul012_Fragen)  
 
 ## M013 | DELEGATES und EVENTS (optional)
@@ -112,25 +112,23 @@ C# Grundlagenkurs in Teilzeit vom 10.11.2020 bis 19.11.2020 - Trainer: Benedikt 
 
 
 ## M014 | FEHLERBEHANDLUNG
-- [ ] Fehlertypen
-- [ ] try-catch <!--[Link](Uebungen/Modul014_01_Fehlerbehandlung/Program.cs) --> 
-- [ ] Debugger 
-- [ ] UnitTests <!--[Link](Uebungen/Modul014_02_UnitTest_Funktionen/Program.cs) --> 
+- [x] Fehlertypen
+- [x] try-catch [Link](Uebungen/Modul014_01_Fehlerbehandlung/Program.cs)  
+- [x] Debugger 
+- [x] UnitTests [Link](Uebungen/Modul014_02_UnitTest_Funktionen/Program.cs)  
 
 
 ## M015 | DATEIEN und VERZEICHNISSE (optional)
-- [ ] Dateien lesen/schreiben <!--[Link](Uebungen/Modul015_01_Dateien_Verzeichnisse/MainWindow.xaml.cs) --> 
-- [ ] Dateidialog <!--[Link](Uebungen/Modul015_01_Dateien_Verzeichnisse/MainWindow.xaml.cs) --> 
-- [ ] JSON <!--[Link](Uebungen/Modul015_02_JSON/Program.cs) --> 
-- [ ] XML <!--[Link](Uebungen/Modul015_03_XML/Program.cs) --> 
-- [ ] Fragen <!--[Link](Uebungen/Modul015_Fragen) --> 
+- [x] Dateien lesen/schreiben [Link](Uebungen/Modul015_01_Dateien_Verzeichnisse/MainWindow.xaml.cs)  
+- [x] Dateidialog [Link](Uebungen/Modul015_01_Dateien_Verzeichnisse/MainWindow.xaml.cs)  
+- [x] JSON [Link](Uebungen/Modul015_02_JSON/Program.cs)  
+- [x] XML [Link](Uebungen/Modul015_03_XML/Program.cs)  
+- [x] Fragen [Link](Uebungen/Modul015_Fragen)  
 
 
 ## M016 | ASP.NET Core API (optional)
-- [ ] ASP.NET Core API <!--[Link](Uebungen/Modul016_API) -->
-- [ ] Zugriff auf API <!--[Link](Uebungen/Modul016_API_Console) -->
+- [x] ASP.NET Core API [Link](Uebungen/Modul016_API) 
+- [x] Zugriff auf API [Link](Uebungen/Modul016_API_Console) 
 
 ## M017 | ZUSÄTZLICHE THEMEN (optional)
-- [ ] Klassendiagramme
-- [ ] Deployment
-- [ ] .NET Framework/.NET Core/.NET 5
+- [x] Klassendiagramme
